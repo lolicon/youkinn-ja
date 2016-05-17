@@ -10,6 +10,11 @@ notes for japanese learning,
 ## categories
 1. [verb classify and transformation](verb-forms.md)
 2. [adjective classify and transformation](adjective-forms.md)
+3. [grammers](grammer.txt)
+4. [video-notes](video-chapter1.txt)
+5. [vocabulary form notebook](page\d+(-\d+)?.txt)
+
+
 
 
 
