@@ -8,8 +8,8 @@ notes for japanese learning,
 
 
 ## categories
-1. [verb classify and transformation](blob/master/verb-forms.md)
-2. [adjective classify and transformation](blob/master/adjective-forms.md)
+1. [verb classify and transformation](verb-forms.md)
+2. [adjective classify and transformation](adjective-forms.md)
 
 
 
